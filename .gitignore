@@ -1,0 +1,23 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Local backups and generated files
+local_backups/
+uploads/
+.vscode/
+
+# Backend / misc
+server.ts
+auto_push.js
+fix.py
+fix2.py
+modify_app.py
+translator.db
+*.pyc
+__pycache__/
